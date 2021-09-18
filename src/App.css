@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.play {
+  width: 600px;
+  background-color: pink;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 15px;
+  margin: 20px;
+}
+
+.play p {
+  line-height: 0%;
+}
+
+.aanda
+{
+  border: 1px solid brown;
+  border-radius: 5px;
+  width: 250px;
+}
